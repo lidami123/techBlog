@@ -1,0 +1,2 @@
+# techBlog
+Record technical points
